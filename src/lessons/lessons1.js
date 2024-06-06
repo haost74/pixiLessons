@@ -15,7 +15,7 @@ import rect from '../rect.png'
 
 
 export class Start{
-    app;
+    app
     constructor(){
         this.app = new Application({resizeTo: window, backgroundColor:"0xAAAAAA"})
         document.getElementById('root').appendChild(this.app.view)
