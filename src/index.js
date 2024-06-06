@@ -1,9 +1,9 @@
 import axios from 'axios';
 // import { Setup } from './setup';
 // import { Button } from './view/Button';
-import {Start} from './lessons/lessons10'
+import {Start} from './lessons/lessons11'
 // var setup = new Setup();
 // var buttom = new Button(setup.app)
 
 
-var start = new Start();
+var start = new Start()
